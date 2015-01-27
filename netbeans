@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Script to call netbeans - Cài tay nên hệ thống chưa nhận PATH
+
+/home/vunhan/netbeans-8.0.2/bin/netbeans
