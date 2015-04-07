@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Script này để cấu hình 2 màn hình
+# 1 - Lap
+# 2 - Màn hình tại nhà (1280 x 1024)
+# Cơ chế - bên phải màn hình chính
+
+xrandr --output LVDS-0 --mode 1366x768 --left-of VGA-0
+xrandr --output VGA-0 --mode 1280x1024 --right-of LVDS-0
+echo done
