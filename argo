@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -jar /home/vunhan/argouml-0.34/argouml.jar

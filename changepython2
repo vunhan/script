@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+virtualenv2 venv &&
+source venv/bin/activate
+echo "Done"
+exit 0
