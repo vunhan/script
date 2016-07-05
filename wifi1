@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sudo create_ap wlp6s0 wlp0s26u1u1 Arch jhuv5412

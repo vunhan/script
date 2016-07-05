@@ -1,0 +1,1 @@
+/home/vunhan/.config/awesome/switch-theme.sh

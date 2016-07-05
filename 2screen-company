@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#xrandr --output VGA1 --mode 1920x1080 --right-of LVDS1
+#xrandr --output LVDS1 --mode 1366x768 --left-of VGA1
+xrandr --output LVDS1 --auto --pos 0x312 --output VGA1 --auto --pos 1366x0
+
