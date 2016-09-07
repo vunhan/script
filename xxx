@@ -1,1 +1,1 @@
-sudo hping3 -S -P -U --interface wlp6s0 --faster -V --rand-source x.x.x.x --rand-dest
+sudo hping3 -S -P -U --interface wlp6s0 --flood -V --rand-source x.x.x.x --rand-dest
