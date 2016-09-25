@@ -1,0 +1,1 @@
+sudo oinkmaster.pl -C /etc/oinkmaster.conf -o /etc/suricata/rules
