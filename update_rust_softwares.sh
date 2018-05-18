@@ -2,6 +2,7 @@
 # Softwares was installed via cargo
 # They have 2 types of them
 # git and from crates (FIXME)
+
 #!/bin/bash
 
 GIT_SRC=(https://github.com/jwilm/alacritty \
